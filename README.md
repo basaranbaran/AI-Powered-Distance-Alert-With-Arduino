@@ -323,36 +323,5 @@ Mesafe (cm) = cm_constant / kutu_genişliği
 
 ---
 
-## 📁 Proje Yapısı
-
-```
-AI-Powered-Distance-Alert-With-Arduino/
-│
-├── arduino-real/
-│   └── arduino-real.ino          # Arduino kaynak kodu
-│
-├── images/
-│   └── circuit_diagram.png       # Devre şeması görseli
-│
-├── arduino-ai.py                 # Python AI detection scripti
-├── yolov8n.pt                    # YOLOv8 Nano model dosyası
-├── requirements.txt              # Python bağımlılıkları
-├── .gitignore                    # Git ignore dosyası
-├── LICENSE                       # Lisans dosyası
-└── README.md                     # Proje dokümantasyonu
-```
-
----
-
-## 🤝 Katkıda Bulunma
-
-Katkılarınızı bekliyoruz! Lütfen şu adımları izleyin:
-
-1. Projeyi fork edin
-2. Yeni bir branch oluşturun (`git checkout -b feature/yeniOzellik`)
-3. Değişikliklerinizi commit edin (`git commit -m 'Yeni özellik eklendi'`)
-4. Branch'inizi push edin (`git push origin feature/yeniOzellik`)
-5. Pull Request oluşturun
-
 </div>
 

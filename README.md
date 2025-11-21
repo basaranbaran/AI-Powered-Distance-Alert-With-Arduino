@@ -354,33 +354,5 @@ Katkılarınızı bekliyoruz! Lütfen şu adımları izleyin:
 4. Branch'inizi push edin (`git push origin feature/yeniOzellik`)
 5. Pull Request oluşturun
 
----
-
-## 📄 Lisans
-
-Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
-
----
-
-## 📧 İletişim
-
-Sorularınız veya önerileriniz için issue açabilir veya benimle iletişime geçebilirsiniz.
-
----
-
-## 🙏 Teşekkürler
-
-- [Ultralytics](https://github.com/ultralytics/ultralytics) - YOLOv8 için
-- [OpenCV](https://opencv.org/) - Görüntü işleme için
-- [Arduino](https://www.arduino.cc/) - Donanım platformu için
-
----
-
-<div align="center">
-
-**⭐ Projeyi beğendiyseniz yıldız vermeyi unutmayın!**
-
-Made with ❤️ and AI
-
 </div>
 

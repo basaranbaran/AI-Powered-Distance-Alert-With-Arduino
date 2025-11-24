@@ -43,7 +43,7 @@ while True:
 
             if estimated_distance < 100:
                 color = (0, 0, 255)
-                status = "CARPISMA!"
+                status = "TEHLIKE!"
             elif estimated_distance < 200:
                 color = (0, 255, 255)
                 status = "DIKKAT!"

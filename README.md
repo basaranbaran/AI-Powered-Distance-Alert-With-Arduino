@@ -224,7 +224,7 @@ pip install -r requirements.txt
 1. Windows ayarlarından **"Bluetooth ve Cihazlar"** bölümüne gidin
 2. **"Cihaz Ekle"** seçeneği ile HC-05 modülünü bulun ve eşleştirin
    - Varsayılan şifre: `1234` veya `0000`
-3. **Cihaz Yöneticisi**'nden HC-05'e atanan **Giden (Outgoing)** COM port numarasını not edin
+3. **Aygıt Yöneticisi**'nden HC-05'e atanan **Giden (Outgoing)** COM port numarasını not edin
 4. `arduino-ai.py` dosyasını açın ve `arduino_port` değişkenini kendi COM portunuzla güncelleyin:
 
 ```python
